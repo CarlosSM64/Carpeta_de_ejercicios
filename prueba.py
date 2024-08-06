@@ -1,0 +1,2 @@
+tiempo = input("Ingresar tiempo: ")
+
